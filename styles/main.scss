@@ -102,6 +102,16 @@ h1 {
   .primary {
     background-color: colors.$primary-color;
   }
+  .secondary {
+    background-color: colors.$secondary-font-color;
+  }
+
+  .dark {
+    background-color: colors.$dark-background;
+  }
+  .darker {
+    background-color: colors.$darker-background;
+  }
 
   
   .footer {

@@ -403,6 +403,18 @@ h1 {
   background-color: #575757;
 }
 
+.secondary {
+  background-color: #DB8D33;
+}
+
+.dark {
+  background-color: #414141;
+}
+
+.darker {
+  background-color: #150300;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
