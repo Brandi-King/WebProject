@@ -11,7 +11,7 @@ body {
   background-color: #f4f4f4;
 }
 h2 {
-  color: orange;
+  color: colors.$secondary-font-color;
   font-family:cursive;
   font-size: 32px;
 }   
@@ -24,7 +24,7 @@ h1 {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    background-color: #311;
+    background-color: colors.$darker-background;
     padding: 15px 20px;
     position: absolute;
     top: 0;
